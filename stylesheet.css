@@ -1,0 +1,38 @@
+html{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.menu{
+    background-color: antiquewhite;
+    font-size: larger;
+    font-style: italic;
+    padding-left: 0%;
+    height: 150px;
+    width: 150px;
+    list-style: none;
+    margin-left: 0;
+}
+.tebogo{
+    text-align: center;
+}
+header{
+    background-color: darksalmon;
+}
+body{
+    background-color: orchid;
+}
+footer{
+    background-color: tan;
+}
+.education{
+    color: blueviolet;
+}
+h2{
+    background-color: chocolate;
+    width: fit-content;
+    height: fit-content;
+}
+h3{
+    background-color: gray;
+    width: fit-content;
+    height: fit-content;
+}
