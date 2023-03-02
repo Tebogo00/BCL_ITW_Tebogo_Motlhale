@@ -1,0 +1,81 @@
+html {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu {
+    background-color: #F9CBFF;
+    font-size: larger;
+    font-style: italic;
+    padding: 3%;
+    height: 150px;
+    width: 150px;
+    list-style: none;
+    margin: 3%;
+    border-style: solid;
+}
+
+.tebogo {
+    text-align: center;
+}
+
+header {
+    background-color: #755172;
+    border-style: solid;
+    padding-bottom: 0%;
+    margin-top: 3%;
+    margin: 3%;
+    padding: 3%;
+}
+
+body {
+    background-color: #FF6F91;
+
+}
+
+footer {
+    background-color: #F9CBFF;
+    border-style: solid;
+    border-color: #000;
+    margin: 3%;
+    padding: 3%;
+    text-align: center;
+}
+
+.education {
+    color: #FEFEDF;
+}
+
+h2 {
+    background-color: #685e6a;
+    text-align: center;
+
+}
+
+h3 {
+    background-color: #e8aee4;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+}
+
+img {
+    border-radius: 50%;
+    border: 5px solid #000;
+    margin-top: 3%;
+}
+
+.Lorem {
+    color: #C4FCEF
+}
+
+.Lorem ipsum {
+    color: #4FFBDF
+}
+
+article {
+    margin: 10%;
+    border-style: solid;
+    border-color: #000;
+    margin: 3%;
+    padding: 3%;
+}
