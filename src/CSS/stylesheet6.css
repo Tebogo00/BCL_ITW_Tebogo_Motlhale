@@ -1,5 +1,5 @@
 html {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .menu {
@@ -92,4 +92,53 @@ article {
 #job2 {
     position: relative;
     left: 200px;
+}
+
+p{color:maroon;}
+
+@media(min-width:300px) {
+    body{
+        background-color: rgba(118, 151, 167, 0.244);
+        font-size: small;
+    }
+    img{
+        width: 20%;
+        height: auto;
+    }
+}
+
+
+@media(min-width:600px) {
+    body{
+        background-color: rgba(160, 172, 172, 0.863);
+        font-size: medium;
+    }
+    img{
+        width: 20%;
+        height: auto;
+    }
+}
+
+
+@media(min-width:768px) {
+    body{
+        background-color: rgba(66, 78, 73, 0.964);
+        font-size: large;
+    }
+    img{
+        width: 20%;
+        height: auto;
+    }
+}
+
+
+@media(min-width:992px) {
+    body{
+        background-color: rgba(233, 203, 106, 0.455);
+        font-size: larger;
+    }
+    img{
+        width: 20%;
+        height: auto;
+    }
 }
